@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Import Points</title>
+</head>
+<body>
+    <form action="/import" method="POST">
+        <label for="store">Select Store:</label>
+        <select name="store" id="store">
+            <option value="store1">Store 1</option>
+            <option value="store2">Store 2</option>
+            <!-- Thêm các store khác nếu cần -->
+        </select>
+        <br>
+        <label for="code">Enter Code:</label>
+        <input type="text" id="code" name="code" required>
+        <br>
+        <button type="submit">Import</button>
+    </form>
+</body>
+</html>

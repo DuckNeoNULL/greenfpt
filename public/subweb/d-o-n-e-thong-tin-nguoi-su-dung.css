@@ -1,0 +1,717 @@
+.instance-child29 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-lightgoldenrodyellow);
+}
+.homepage9 {
+  position: relative;
+}
+.e-events-wrapper4,
+.homepage-wrapper4,
+.qa-wrapper4,
+.trade-plants-wrapper4 {
+  position: absolute;
+  height: 38.6%;
+  width: 10%;
+  top: 30.7%;
+  right: 68.47%;
+  bottom: 30.7%;
+  left: 21.53%;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.e-events-wrapper4,
+.qa-wrapper4,
+.trade-plants-wrapper4 {
+  width: 8.68%;
+  right: 58.4%;
+  left: 32.92%;
+}
+.qa-wrapper4,
+.trade-plants-wrapper4 {
+  width: 10.83%;
+  right: 46.18%;
+  left: 42.99%;
+}
+.qa-wrapper4 {
+  width: 5.69%;
+  right: 39.1%;
+  left: 55.21%;
+}
+.about-us9 {
+  position: relative;
+  white-space: pre-wrap;
+}
+.about-us-wrapper4,
+.log-in-wrapper5,
+.register-wrapper6 {
+  position: absolute;
+  height: 38.6%;
+  width: 9.1%;
+  top: 30.7%;
+  right: 28.61%;
+  bottom: 30.7%;
+  left: 62.29%;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.log-in-wrapper5,
+.register-wrapper6 {
+  right: 14.24%;
+  left: 76.67%;
+  background-color: var(--color-darkolivegreen);
+  color: var(--color-white);
+}
+.register-wrapper6 {
+  width: 5.9%;
+  right: 6.94%;
+  left: 87.15%;
+}
+.logo-trng-i-hc-fptsvg-icon9 {
+  position: absolute;
+  height: 64.91%;
+  width: 13.19%;
+  top: 19.3%;
+  right: 79.86%;
+  bottom: 15.79%;
+  left: 6.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-parent20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 114px;
+}
+.done-thong-tin-nguoi-su-dung-child1 {
+  position: absolute;
+  top: 405px;
+  left: calc(50% - 527px);
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 250px;
+  height: 250px;
+}
+.done-thong-tin-nguoi-su-dung-child2 {
+  position: absolute;
+  top: 397px;
+  left: calc(50% - 535px);
+  border-radius: 50%;
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  width: 266px;
+  height: 266px;
+}
+.fpt-green1 {
+  position: absolute;
+  top: 437px;
+  left: calc(50% - 220px);
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+}
+.points-2-container {
+  top: 507px;
+  left: calc(50% - 220px);
+  background-color: var(--color-darkolivegreen);
+  color: var(--color-white);
+}
+.edit-profile-container,
+.number-of-trees-planted-1-container,
+.points-2-container {
+  position: absolute;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.number-of-trees-planted-1-container {
+  top: 563px;
+  left: calc(50% - 220px);
+  background-color: var(--color-darkolivegreen);
+  color: var(--color-white);
+}
+.edit-profile-container {
+  top: 0;
+  left: calc(50% - 71px);
+}
+.done-thong-tin-nguoi-su-dung-inner1 {
+  position: absolute;
+  top: 619px;
+  left: calc(50% - 220px);
+  width: 142px;
+  height: 44px;
+}
+.my-profile1 {
+  position: absolute;
+  top: 0;
+  left: 78px;
+  font-weight: 600;
+}
+.manage-profile-information1 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  font-size: var(--font-size-xl);
+}
+.my-profile-group {
+  position: absolute;
+  top: 246px;
+  left: 496px;
+  width: 449px;
+  height: 88px;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+}
+.vector-icon1 {
+  width: 39px;
+  position: relative;
+  height: 34.5px;
+}
+.vector-container {
+  position: absolute;
+  top: 611px;
+  left: 358px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  width: 59px;
+  height: 59px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.oouinext-ltr-icon3 {
+  position: absolute;
+  top: 1527px;
+  left: 634px;
+  width: 16.1px;
+  height: 20px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.group-child36,
+.your-cups1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 262.5px);
+}
+.group-child36 {
+  border-radius: var(--br-11xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  width: 525px;
+  height: 202px;
+}
+.pngtreegreen-plant-bonsai-44533,
+.pngtreegreen-plant-bonsai-44534,
+.pngtreegreen-plant-bonsai-44535 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 249.5px);
+  width: 55px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44534,
+.pngtreegreen-plant-bonsai-44535 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44535 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44536,
+.pngtreegreen-plant-bonsai-44537,
+.pngtreegreen-plant-bonsai-44538 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 205px);
+  width: 55px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44537,
+.pngtreegreen-plant-bonsai-44538 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44538 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44539,
+.pngtreegreen-plant-bonsai-44540,
+.pngtreegreen-plant-bonsai-44541 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 160.5px);
+  width: 55px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44540,
+.pngtreegreen-plant-bonsai-44541 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44541 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44542,
+.pngtreegreen-plant-bonsai-44543,
+.pngtreegreen-plant-bonsai-44544 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 116.9px);
+  width: 55.8px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44543,
+.pngtreegreen-plant-bonsai-44544 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44544 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44545,
+.pngtreegreen-plant-bonsai-44546,
+.pngtreegreen-plant-bonsai-44547 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 72.4px);
+  width: 55.8px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44546,
+.pngtreegreen-plant-bonsai-44547 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44547 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44548,
+.pngtreegreen-plant-bonsai-44549,
+.pngtreegreen-plant-bonsai-44550 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 27px);
+  width: 54.1px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44549,
+.pngtreegreen-plant-bonsai-44550 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44550 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44551,
+.pngtreegreen-plant-bonsai-44552,
+.pngtreegreen-plant-bonsai-44553 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 16.6px);
+  width: 55.8px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44552,
+.pngtreegreen-plant-bonsai-44553 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44553 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44554,
+.pngtreegreen-plant-bonsai-44555,
+.pngtreegreen-plant-bonsai-44556 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 61.1px);
+  width: 55.8px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44555,
+.pngtreegreen-plant-bonsai-44556 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44556 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44557,
+.pngtreegreen-plant-bonsai-44558,
+.pngtreegreen-plant-bonsai-44559 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 105.6px);
+  width: 55px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44558,
+.pngtreegreen-plant-bonsai-44559 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44559 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44560,
+.pngtreegreen-plant-bonsai-44561,
+.pngtreegreen-plant-bonsai-44562 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 150px);
+  width: 55px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44561,
+.pngtreegreen-plant-bonsai-44562 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44562 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-44563,
+.pngtreegreen-plant-bonsai-44564,
+.pngtreegreen-plant-bonsai-44565 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 194.5px);
+  width: 55px;
+  height: 55.8px;
+  object-fit: cover;
+}
+.pngtreegreen-plant-bonsai-44564,
+.pngtreegreen-plant-bonsai-44565 {
+  top: 57.6px;
+}
+.pngtreegreen-plant-bonsai-44565 {
+  top: 115.2px;
+}
+.pngtreegreen-plant-bonsai-445-group {
+  position: absolute;
+  top: 16px;
+  left: calc(50% - 249.5px);
+  width: 499px;
+  height: 171px;
+}
+.group-child37,
+.rectangle-parent21,
+.your-cups-group,
+.your-trees-group {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 262.5px);
+  width: 525px;
+  height: 202px;
+}
+.group-child37,
+.your-cups-group,
+.your-trees-group {
+  top: 290px;
+  height: 238px;
+}
+.group-child37,
+.your-cups-group {
+  top: 36px;
+}
+.your-cups-group {
+  top: 692px;
+  left: calc(50% + 10px);
+  height: 528px;
+}
+.instance-child30 {
+  position: absolute;
+  height: 78.07%;
+  width: 100%;
+  top: 14.91%;
+  right: 0;
+  bottom: 7.02%;
+  left: 0;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+}
+.activities3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.e-events10 {
+  position: absolute;
+  top: 38.27%;
+  left: 0;
+}
+.activities-parent1,
+.plastic-cups-grow5 {
+  position: absolute;
+  top: 76.54%;
+  left: 0;
+}
+.activities-parent1 {
+  height: 35.06%;
+  width: 100%;
+  top: 64.94%;
+  right: 0;
+  bottom: 0;
+}
+.homepage10 {
+  top: 27.68%;
+}
+.about-us10,
+.homepage10,
+.qa10 {
+  position: absolute;
+  left: 0;
+}
+.qa10 {
+  width: 100%;
+  top: 83.04%;
+  display: inline-block;
+}
+.about-us10 {
+  top: 55.36%;
+}
+.f-green-parent2,
+.group-parent22 {
+  position: absolute;
+  height: 48.48%;
+  width: 63.04%;
+  top: 0;
+  right: 36.96%;
+  bottom: 51.52%;
+  left: 0;
+}
+.group-parent22 {
+  height: 50.66%;
+  width: 14.84%;
+  top: 29.61%;
+  right: 43.87%;
+  bottom: 19.74%;
+  left: 41.29%;
+}
+.logo-trng-i-hc-fptsvg-icon10 {
+  position: absolute;
+  height: 39.92%;
+  width: 83.81%;
+  top: 0;
+  right: 16.19%;
+  bottom: 60.08%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.the-f-green-website3 {
+  position: absolute;
+  height: 43.8%;
+  width: 100%;
+  top: 56.2%;
+  left: 0;
+  display: inline-block;
+}
+.logo-trng-i-hc-fptsvg-parent1 {
+  position: absolute;
+  height: 56.58%;
+  width: 25.4%;
+  top: 22.81%;
+  right: 66.94%;
+  bottom: 20.61%;
+  left: 7.66%;
+  text-align: justify;
+}
+.phone-number4 {
+  font-weight: 500;
+}
+.phone-number-0123-345-678-container3 {
+  position: absolute;
+  top: 23.66%;
+  left: 0;
+}
+.address-fpt-university-container3 {
+  position: absolute;
+  width: 100%;
+  top: 70.99%;
+  left: 0;
+  display: inline-block;
+}
+.email-fgreengmailcom3 {
+  position: absolute;
+  top: 47.33%;
+  left: 0;
+}
+.contact-with-us-parent1 {
+  position: absolute;
+  height: 56.71%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 43.29%;
+  left: 0;
+}
+.copyright-belongs-to3 {
+  position: absolute;
+  top: 91.77%;
+  left: 0;
+  font-weight: 300;
+}
+.group-parent23 {
+  position: absolute;
+  height: 50.66%;
+  width: 28.55%;
+  top: 29.61%;
+  right: 5.4%;
+  bottom: 19.74%;
+  left: 66.05%;
+}
+.rectangle-parent22 {
+  position: absolute;
+  top: 1290px;
+  left: calc(50% - 620px);
+  width: 1240px;
+  height: 456px;
+  font-size: var(--font-size-base);
+}
+.user-name1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 129px);
+  opacity: 0.8;
+}
+.fptgreen1,
+.user-name-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 48px);
+}
+.user-name-parent {
+  left: calc(50% - 186.5px);
+  width: 258px;
+  height: 24px;
+}
+.fptgreengmailcom1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 9.5px);
+}
+.email11,
+.fptgreengmailcom-parent {
+  position: absolute;
+  left: calc(50% - 186.5px);
+}
+.email11 {
+  top: 0;
+  opacity: 0.8;
+}
+.fptgreengmailcom-parent {
+  top: 64px;
+  width: 373px;
+  height: 24px;
+}
+.div4,
+.phone-number5 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 19px);
+}
+.phone-number5 {
+  left: calc(50% - 158px);
+  opacity: 0.8;
+}
+.parent {
+  position: absolute;
+  top: 128px;
+  left: calc(50% - 186.5px);
+  width: 316px;
+  height: 24px;
+}
+.nam1,
+.sex1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 66.5px);
+}
+.sex1 {
+  left: calc(50% - 110.5px);
+  opacity: 0.8;
+}
+.nam-group {
+  position: absolute;
+  top: 192px;
+  left: calc(50% - 186.5px);
+  width: 221px;
+  height: 24px;
+}
+.date-of-birth1,
+.div5 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 34.5px);
+}
+.date-of-birth1 {
+  left: calc(50% - 142.5px);
+  opacity: 0.8;
+}
+.frame-wrapper2,
+.group,
+.group-parent24 {
+  position: absolute;
+  top: 256px;
+  left: calc(50% - 186.5px);
+  width: 285px;
+  height: 24px;
+}
+.frame-wrapper2,
+.group-parent24 {
+  top: 320px;
+  width: 142px;
+  height: 44px;
+}
+.group-parent24 {
+  top: 746px;
+  left: calc(50% - 535px);
+  width: 373px;
+  height: 364px;
+}
+.done-thong-tin-nguoi-su-dung1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1724px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}

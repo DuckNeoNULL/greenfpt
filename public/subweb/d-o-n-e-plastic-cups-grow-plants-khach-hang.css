@@ -1,0 +1,388 @@
+.instance-child79 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-lightgoldenrodyellow);
+}
+.homepage-wrapper11 {
+  position: absolute;
+  height: 38.6%;
+  width: 10%;
+  top: 30.7%;
+  right: 68.47%;
+  bottom: 30.7%;
+  left: 21.53%;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.e-events-wrapper11 {
+  width: 8.68%;
+  right: 58.4%;
+  left: 32.92%;
+}
+.e-events-wrapper11,
+.qa-wrapper13,
+.trade-plants-wrapper11 {
+  position: absolute;
+  height: 38.6%;
+  top: 30.7%;
+  bottom: 30.7%;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.trade-plants-wrapper11 {
+  width: 10.83%;
+  right: 46.18%;
+  left: 42.99%;
+  background-color: var(--color-darkolivegreen);
+  color: var(--color-white);
+}
+.qa-wrapper13 {
+  width: 5.69%;
+  right: 39.1%;
+  left: 55.21%;
+}
+.about-us23 {
+  position: relative;
+  white-space: pre-wrap;
+}
+.about-us-wrapper11 {
+  width: 9.1%;
+  right: 28.61%;
+  left: 62.29%;
+}
+.about-us-wrapper11,
+.log-in-wrapper12,
+.register-wrapper13 {
+  position: absolute;
+  height: 38.6%;
+  top: 30.7%;
+  bottom: 30.7%;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.log-in-wrapper12 {
+  width: 9.1%;
+  right: 14.24%;
+  left: 76.67%;
+  background-color: var(--color-darkolivegreen);
+  color: var(--color-white);
+}
+.register-wrapper13 {
+  width: 5.9%;
+  right: 6.94%;
+  left: 87.15%;
+}
+.logo-trng-i-hc-fptsvg-icon23 {
+  position: absolute;
+  height: 64.91%;
+  width: 13.19%;
+  top: 19.3%;
+  right: 79.86%;
+  bottom: 15.79%;
+  left: 6.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-parent57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 114px;
+  font-size: var(--font-size-xl);
+}
+.done-plastic-cups-grow-plant-child {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 100%;
+  height: 736px;
+  object-fit: cover;
+}
+.plastic-cups-grow12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.group-child76,
+.plastic-cups-grow-plants-frame {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  width: 719px;
+  height: 58px;
+}
+.group-child76 {
+  top: 13px;
+  left: 0;
+  border-radius: 0 var(--br-81xl) 0 var(--br-81xl);
+  background-color: var(--color-darkolivegreen);
+  width: 25px;
+  height: 33px;
+}
+.group-parent54 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 760px;
+  height: 58px;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+}
+.select-store {
+  position: absolute;
+  top: 13px;
+  left: calc(50% - 208px);
+}
+.group-child77 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  width: 454px;
+  height: 44px;
+}
+.oouinext-ltr-icon6 {
+  position: absolute;
+  top: 12px;
+  left: 421px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.enter-your-code-parent,
+.select-store-parent {
+  position: absolute;
+  top: 98px;
+  left: calc(50% - 227px);
+  width: 454px;
+  height: 44px;
+}
+.enter-your-code-parent {
+  top: 178px;
+}
+.import {
+  position: relative;
+}
+.frame-wrapper3,
+.import-wrapper {
+  position: absolute;
+  left: calc(50% - 45px);
+}
+.import-wrapper {
+  top: 0;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.frame-wrapper3 {
+  top: 258px;
+  width: 90px;
+  height: 39px;
+}
+.group-parent53 {
+  position: absolute;
+  top: 962px;
+  left: 340px;
+  width: 760px;
+  height: 297px;
+}
+.instance-child80 {
+  position: absolute;
+  height: 78.07%;
+  width: 100%;
+  top: 14.91%;
+  right: 0;
+  bottom: 7.02%;
+  left: 0;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+}
+.activities10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.e-events24 {
+  position: absolute;
+  top: 38.27%;
+  left: 0;
+}
+.activities-parent8,
+.plastic-cups-grow13 {
+  position: absolute;
+  top: 76.54%;
+  left: 0;
+}
+.activities-parent8 {
+  height: 35.06%;
+  width: 100%;
+  top: 64.94%;
+  right: 0;
+  bottom: 0;
+}
+.homepage24 {
+  top: 27.68%;
+}
+.about-us24,
+.homepage24,
+.qa26 {
+  position: absolute;
+  left: 0;
+}
+.qa26 {
+  width: 100%;
+  top: 83.04%;
+  display: inline-block;
+}
+.about-us24 {
+  top: 55.36%;
+}
+.f-green-parent9,
+.group-parent55 {
+  position: absolute;
+  height: 48.48%;
+  width: 63.04%;
+  top: 0;
+  right: 36.96%;
+  bottom: 51.52%;
+  left: 0;
+}
+.group-parent55 {
+  height: 50.66%;
+  width: 14.84%;
+  top: 29.61%;
+  right: 43.87%;
+  bottom: 19.74%;
+  left: 41.29%;
+}
+.logo-trng-i-hc-fptsvg-icon24 {
+  position: absolute;
+  height: 39.92%;
+  width: 83.81%;
+  top: 0;
+  right: 16.19%;
+  bottom: 60.08%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.the-f-green-website13 {
+  position: absolute;
+  height: 43.8%;
+  width: 100%;
+  top: 56.2%;
+  left: 0;
+  display: inline-block;
+}
+.logo-trng-i-hc-fptsvg-parent8 {
+  position: absolute;
+  height: 56.58%;
+  width: 25.4%;
+  top: 22.81%;
+  right: 66.94%;
+  bottom: 20.61%;
+  left: 7.66%;
+  text-align: justify;
+}
+.phone-number12 {
+  font-weight: 500;
+}
+.phone-number-0123-345-678-container10 {
+  position: absolute;
+  top: 23.66%;
+  left: 0;
+}
+.address-fpt-university-container10 {
+  position: absolute;
+  width: 100%;
+  top: 70.99%;
+  left: 0;
+  display: inline-block;
+}
+.email-fgreengmailcom10 {
+  position: absolute;
+  top: 47.33%;
+  left: 0;
+}
+.contact-with-us-parent8 {
+  position: absolute;
+  height: 56.71%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 43.29%;
+  left: 0;
+}
+.copyright-belongs-to10 {
+  position: absolute;
+  top: 91.77%;
+  left: 0;
+  font-weight: 300;
+}
+.group-parent56 {
+  position: absolute;
+  height: 50.66%;
+  width: 28.55%;
+  top: 29.61%;
+  right: 5.4%;
+  bottom: 19.74%;
+  left: 66.05%;
+}
+.rectangle-parent58 {
+  position: absolute;
+  top: 1334px;
+  left: calc(50% - 620px);
+  width: 1240px;
+  height: 456px;
+}
+.done-plastic-cups-grow-plant {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1785px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, width=device-width" />
+  <link rel="stylesheet" href="./global.css" />
+  <link rel="stylesheet" href="./Resgister.css" />
+  <link rel="stylesheet" href="">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap"
+  />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap"
+  />
+  <script>
+    function toggleVisibility(id) {
+      const input = document.getElementById(id);
+      if (input.type === 'password') {
+        input.type = 'text';
+      } else {
+        input.type = 'password';
+      }
+    }
+  </script>
+</head>
+<body>
+  <div class="homepage-cha-ng-nhp1">
+    <header class="component-21">
+      <div class="background"></div>
+      <div class="header1">
+        <img
+          class="logo-trng-i-hc-fptsvg-icon9"
+          loading="lazy"
+          alt=""
+          src="./subweb/public/logo-trng-i-hc-fptsvg@2x.png"
+        />
+        <div class="navigation3">
+          <div class="links">
+            <button class="link-labels">
+              <a class="homepage9">Homepage</a>
+            </button>
+            <button class="link-labels1">
+              <a class="e-events10">E-events</a>
+            </button>
+            <button class="link-labels2">
+              <div class="plastic-cups-grow9">Plastic cups grow plants</div>
+            </button>
+            <button class="link-labels3">
+              <a class="qa9">Q&A</a>
+            </button>
+            <button class="link-labels4">
+              <a class="about-us10">About us</a>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="user4">
+        <div class="auth1">
+          <button class="auth-labels">
+            <a class="log-in3">Log in</a>
+          </button>
+          <button class="auth-labels1">
+            <a class="register2">Register</a>
+          </button>
+        </div>
+      </div>
+    </header>
+    <section class="content1">
+      <img class="pngegg-1-icon1" alt="" src="./subweb/public/pngegg-1@2x.png" />
+      <form class="form">
+        <div class="register-button">
+          <h1 class="register3">register</h1>
+        </div>
+        <div class="contact">
+          <div class="telephone-number1">Telephone number</div>
+          <a class="email4">Email</a>
+        </div>
+        <div class="remember-me">
+          <img
+            class="remember-me-child"
+            loading="lazy"
+            alt=""
+            src="./subweb/public/group-478.svg"
+          />
+          <div class="contact-fields">
+            <div class="full-name-parent">
+              <input class="full-name" placeholder="Full name" type="text" />
+              <div class="frame-child9"></div>
+            </div>
+            <div class="telephone-number-parent">
+              <input
+                class="telephone-number2"
+                placeholder="Telephone number"
+                type="text"
+              />
+              <div class="frame-child10"></div>
+            </div>
+            <div class="email-group">
+              <input class="email5" placeholder="Email" type="text" />
+              <div class="frame-child11"></div>
+            </div>
+          </div>
+        </div>
+        <div class="password-group">
+          <input
+            id="password"
+            class="password1"
+            placeholder="Password"
+            type="password"
+          />
+          <div class="frame-child12"></div>
+          <img
+            class="view-hide-icon1"
+            alt=""
+            src="./subweb/public/view-hide1@2x.png"
+            onclick="toggleVisibility('password')"
+          />
+        </div>
+        <div class="determine-parent">
+          <input
+            id="determine"
+            class="determine"
+            placeholder="Determine"
+            type="password"
+          />
+          <div class="frame-child13"></div>
+          <img
+            class="view-hide-icon2"
+            alt=""
+            src="./subweb/public/view-hide1@2x.png"
+            onclick="toggleVisibility('determine')"
+          />
+        </div>
+        <button class="fields">
+          <div class="register4">Register</div>
+        </button>
+        <div class="forget-password">
+          <div class="forget-password-link">
+            <div class="toggle-parent">
+              <input class="toggle" type="checkbox" />
+              <div class="forget-password-label">
+                <div class="remember2">Remember</div>
+              </div>
+            </div>
+            <div class="forget2">
+              <div class="foget">Foget?</div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </section>
+  </div>
+</body>
+</html>

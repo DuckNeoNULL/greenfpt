@@ -1,0 +1,55 @@
+body {
+  margin: 0; /* Loại bỏ margin mặc định */
+  padding: 0; /* Loại bỏ padding mặc định */
+  box-sizing: border-box; /* Đảm bảo padding và border được tính trong kích thước tổng */
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-quicksand: Quicksand;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-9xl: 28px;
+  --font-size-mini: 15px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkolivegreen: #34661f;
+  --color-forestgreen: #31a24c;
+  --color-lightgoldenrodyellow: #dbecc8;
+  --color-gray-100: #8e8e8e;
+  --color-gray-200: #878787;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-crimson: #ef3131;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xl: 20px;
+  --padding-8xl: 27px;
+
+  /* Border radiuses */
+  --br-23xl: 42px;
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+  --br-xl: 20px;
+  --br-81xl: 100px;
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-4xs: 9px;
+  --br-smi: 13px;
+  --br-14xl: 33px;
+  --br-24xl: 43px;
+}
